@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GenPrologGrid:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GenPrologGrid_jar</output-path>
+    <root id="archive" name="GenPrologGrid.jar">
+      <element id="module-output" name="GenPrologGrid" />
+    </root>
+  </artifact>
+</component>
